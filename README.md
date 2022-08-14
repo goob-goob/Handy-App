@@ -3,7 +3,7 @@ Mobile app companion for the #Handy project.
 
 This Xmarin mobile application is being built as an OpenSource application that will allow users of the OpenSource Bionic Hand project to control the hand and it's settings via bluetooth.
 
-This is still very much a work in progress but the current build will allow a Bluetooth Connection to the Adafruit board inside the hand and remote control and set-up.
+This is still very much a work in progress but the current build will allow a Bluetooth Connection to the [Adafruit](https://www.adafruit.com/) board inside the hand and remote control and set-up.
 
 There are plans to continue the building of this app to a point that any user can configure their own Bionic hand as well as record sensor reading and upload them to an Azure Cloud function for analysis and suggestion of settings, but this is still on the todo list.
 
